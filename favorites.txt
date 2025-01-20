@@ -1,2 +1,7 @@
+Fav Food:
 Biryani
 Sweet
+Fav Movies:
+Kalki
+Salaar
+
